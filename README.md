@@ -1,8 +1,8 @@
-# 🤖 OpenAI Chatbot Starter Kit
+# OpenAI Chatbot Starter Kit
 
 Starter kit chatbot sederhana menggunakan OpenAI API yang siap pakai.
 
-## ✨ Fitur
+## Fitur
 
 - **Interface Modern**: Desain yang clean dan responsive
 - **Real-time Chat**: Percakapan langsung dengan OpenAI GPT
@@ -11,7 +11,7 @@ Starter kit chatbot sederhana menggunakan OpenAI API yang siap pakai.
 - **Easy Setup**: Tidak perlu server, langsung bisa digunakan
 - **Bahasa Indonesia**: Support penuh bahasa Indonesia
 
-## 🚀 Cara Menggunakan
+## Cara Menggunakan
 
 ### 1. Clone Repository
 ```bash
@@ -31,7 +31,7 @@ cd openai-chatbot-starter
 ### 4. Mulai Mengobrol!
 Ketik pesan dan tekan Enter atau klik tombol kirim.
 
-## 📁 Struktur File
+## Struktur File
 
 ```
 openai-chatbot-starter/
@@ -79,9 +79,9 @@ Untuk production, pertimbangkan:
 - Rate limiting dan monitoring
 - Authentication pengguna
 
-## 🔒 Keamanan
+## Keamanan
 
-⚠️ **Penting**: 
+**Penting**: 
 - Jangan commit API key ke repository
 - Gunakan environment variables untuk production
 - Implementasi rate limiting
@@ -94,7 +94,7 @@ Untuk production, pertimbangkan:
 - Safari 14+
 - Edge 90+
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Kontribusi sangat diterima! Silakan:
 
@@ -108,10 +108,9 @@ Kontribusi sangat diterima! Silakan:
 
 Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lengkap.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [OpenAI](https://openai.com/) untuk API yang luar biasa
-- Komunitas developer Indonesia
 - Semua contributor yang telah membantu
 
 ## 📞 Support
