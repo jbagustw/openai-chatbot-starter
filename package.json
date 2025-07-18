@@ -1,0 +1,33 @@
+{
+  "name": "openai-chatbot-starter",
+  "version": "1.0.0",
+  "description": "Starter kit chatbot sederhana menggunakan OpenAI API untuk developer Indonesia",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=index.html",
+    "dev": "live-server --port=3000 --open=index.html --watch=."
+  },
+  "keywords": [
+    "openai",
+    "chatbot",
+    "ai",
+    "gpt",
+    "indonesia",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/openai-chatbot-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/openai-chatbot-starter/issues"
+  },
+  "homepage": "https://github.com/username/openai-chatbot-starter#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
